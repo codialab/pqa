@@ -1,0 +1,2 @@
+# pqa
+Pangenome Quality Assessment
