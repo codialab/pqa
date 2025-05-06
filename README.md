@@ -1,2 +1,11 @@
-# pqa
-Pangenome Quality Assessment
+# Pangenome Quality Assessment
+
+# Agenda
+## Next steps
+- Setup a nextflow workflow that produces plots for quality assessment of pangenome graphs
+## Plots
+- VG:
+  * SNARL statistics
+- Panacus:
+  * Path lengths / Haplotype sizes
+  *  
