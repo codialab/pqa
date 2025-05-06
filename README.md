@@ -8,4 +8,8 @@
   * SNARL statistics
 - Panacus:
   * Path lengths / Haplotype sizes
-  *  
+  * Similarity Plots
+  * Coverage Line
+  * Node-Length Distribution
+  * Growth Plots
+  * Coverage Histogram
